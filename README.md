@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Aman Robinson 👋
 
 **Data Analyst @ Konark Finserv** I turn raw data into clear, actionable insights. My work involves translating raw financial data into clear, meaningful summaries and insights that support better decision-making. I’m passionate about building clean, efficient data workflows and storytelling through visualization.
 
